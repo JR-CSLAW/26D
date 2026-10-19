@@ -53,6 +53,8 @@ We chose this project because it is a proven object-oriented analysis and design
 
 ## Working rules
 
+The full rules (Git workflow, file naming, branches and reviews with GitHub Issues) are in [CONTRIBUTING.md](CONTRIBUTING.md). In short:
+
 - Run `git pull --rebase` before editing.
 - One document (or one coherent change) per commit.
 - Commit message format: `W<week> - <change summary>; <change description>`
